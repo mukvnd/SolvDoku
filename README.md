@@ -1,6 +1,6 @@
 # Sudoku Solver using Flask, Python, HTML and Backtracking Algorithm
 
-Welcome to my Sudoku solver project! This is a web application that solves Sudoku puzzles using the backtracking algorithm. The application is built using Flask, Python, HTML, and CSS.
+SolvDoku - a web based application that solves Sudoku puzzles using the backtracking algorithm. The application is built using Flask, Python, HTML, and CSS.
 
 ## Installation
 
